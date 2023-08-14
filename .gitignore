@@ -1,0 +1,9 @@
+# Carpetas
+**/__pycache__
+**/.history
+**/.vscode
+**/assets
+**/venv_test_estocastico
+
+# Archivos
+*.ipynb
